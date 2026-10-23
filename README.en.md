@@ -4,7 +4,7 @@
 
 **Almási Andor** — concept studies for lunar waste processing and for a lunar lab that follows the boundary between day and night, based on the materials prepared for the 2025 NASA LunaRecycle Challenge, technically reviewed and corrected.
 
-The 2025 materials were prepared at the request of **Dr. Jenő Páli**, who organised the Hungarian team and led its preparation for the challenge.
+The 2025 materials were prepared at the request of **Dr. Jenő Páli**, who organised and registered the Hungarian team (Lunar Team Hungary) and represented it as team leader, worked through the challenge announcement, selected the waste items to be processed, and led its preparation for the challenge. According to him, no Hungarian team had yet entered any of the 23 NASA Centennial Challenges held up to that point.
 
 ## Contents
 
@@ -27,7 +27,7 @@ Concept study. The processing routes have not yet been verified by laboratory ex
 
 ## Summary
 
-Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecycle Challenge**, prepared at the request of **Dr. Jenő Páli**, who organised the team, reviewed and corrected in 2026:
+Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecycle Challenge**, prepared at the request of **Dr. Jenő Páli**, who organised and registered the team (Lunar Team Hungary), led it as Team Leader, worked through the official rules and selected the waste items to be processed. According to Dr. Páli, no Hungarian team had entered any of the 23 earlier NASA Centennial Challenges. The materials were reviewed and corrected in 2026:
 
 - **Terminator-following lunar lab** — a mobile lab that follows the day–night boundary and so never enters the two-week lunar night. The key point: the terminator moves at about 15 km/h at the equator, but only about 0.3–1.3 km/h at 85–89° latitude, where a full loop is a few hundred kilometres. Near the poles it can be followed by a slow, wheeled, modular platform.
 - **Recycling concept for the challenge** — PVDF foam (Zotek F30), aluminium struts and nitrile gloves processed using two free lunar resources: cold (for brittle cryogenic grinding) and concentrated sunlight (for melting aluminium and sintering regolith). The PVDF route is deliberately mechanical, avoiding thermal decomposition and toxic hydrogen fluoride.
@@ -40,4 +40,4 @@ The original documents are in Hungarian; the English versions linked above are f
 
 **Related:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [LEGAL-RQV-Overview](https://github.com/hyperbetteri/LEGAL-RQV-Overview)
 
-© 2026 Almási Andor. All rights reserved. Quotation with attribution is welcome.
+© 2026 Almási Andor. All rights reserved. May be freely quoted with attribution.

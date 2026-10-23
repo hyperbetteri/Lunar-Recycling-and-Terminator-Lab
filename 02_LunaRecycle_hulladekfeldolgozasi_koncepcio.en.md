@@ -6,7 +6,20 @@
 
 Author: Almási Andor · Original materials: February–March 2025 · Corrected version: October 2026
 
-> **Background.** The NASA LunaRecycle Challenge (part of the Centennial Challenges program) seeks solutions that convert solid waste generated at a lunar base into useful materials or products. This document is a corrected version of materials prepared during a Hungarian team's preparation for the 2025 challenge. The materials were prepared at the request of **Dr. Jenő Páli**, who organised the team, worked through the challenge announcement and selected the three waste items to be processed. The original texts, drafted with the help of AI engines, contained several technical errors; these are listed in the [04 – Correction log](04_Javitasi_naplo.en.md).
+> **Background.** The NASA LunaRecycle Challenge (part of the Centennial Challenges program) seeks solutions that convert solid waste generated at a lunar base into useful materials or products. This document is a corrected version of materials prepared during a Hungarian team's preparation for the 2025 challenge. The materials were prepared at the request of **Dr. Jenő Páli**, who organised and registered the Lunar Team Hungary team and represented it as team leader, worked through the challenge announcement and selected the three waste items to be processed. The original texts, drafted with the help of AI engines, contained several technical errors; these are listed in the [04 – Correction log](04_Javitasi_naplo.en.md).
+
+## The team and the application
+
+Source: Dr. Jenő Páli's emails of February–March 2025.
+
+- **Team:** Lunar Team Hungary. Dr. Jenő Páli registered the team on the NASA Centennial Challenges website (registration number: #670) and represented it as Team Leader.
+- **Hungarian participation:** no Hungarian team had yet entered any of the 23 NASA Centennial Challenges held up to that point (according to Dr. Jenő Páli).
+- **Administrator:** the challenge was administered by The University of Alabama. To participate, the team had to sign a 16-page participation agreement (Phase 1 Team Agreement) with the university.
+- **Official site:** [lunarecyclechallenge.ua.edu](https://lunarecyclechallenge.ua.edu/#project) · news article in Hungarian: [origo.hu](https://www.origo.hu/tudomany/2024/10/nasa-verseny-hold)
+- **Deadline (Phase 1):** 31 March 2025 — submission of the application and the proposed solution.
+- **Prizes:** only US citizens and companies are eligible for prize money; non-US teams may also compete, but they can receive recognition.
+- **Eligibility requirements:** every team member had to register individually, verifying their identity and citizenship, and the team had to provide evidence of insurance or financial coverage of USD 5,000 (Proof of Insurance / Proof of Funds).
+- **Working through the announcement:** Dr. Jenő Páli read the 44-page challenge announcement (Phase 1 Rules) in full, highlighted the relevant parts, and contacted the organisers about the participation requirements that were still unclear.
 
 ## 1. Challenge framework (based on the public announcement)
 
@@ -26,18 +39,23 @@ Author: Almási Andor · Original materials: February–March 2025 · Corrected 
 
 - the waste **must not be incinerated**;
 - toxic emissions, **PFAS compounds** (per- and polyfluoroalkyl substances) and **microplastics** must be avoided; if they are nonetheless generated, this must be declared;
-- lunar **regolith** (the loose rock dust and debris covering the lunar surface) may be used freely;
-- a proposal must be made for **protection against lunar dust**.
+- lunar **regolith** (the loose rock dust and debris covering the lunar surface) may be used freely, in any quantity (specification: [LHS-1](https://sciences.ucf.edu/class/wp-content/uploads/sites/23/2019/02/Spec_LHS-1.pdf));
+- in the first phase, lunar dust does not need to be addressed separately, but a proposal must be made for **protection against lunar dust**;
+- the design submitted in the first phase is not a prerequisite for the second phase (building a prototype): teams may enter that phase with a different idea, process and waste type.
+
+**Expected products (examples from the announcement):** kitchen utensils, towels, wipes, nitrile gloves, containers for food, water, chemicals and gases, utility and assembly tools (cable ties, straps, harnesses, wrenches, screws), as well as everyday items that would otherwise not be sent to space for cost reasons.
 
 ## 2. The three selected waste items
 
-The team selected three of the 17 items, one from each of the three difficulty levels:
+Dr. Jenő Páli selected three of the 17 items in the 6 waste categories, one from each of the three difficulty levels:
 
 | Item | Quantity (1 year, 8 crew) | Difficulty | Material |
 |---|---|---|---|
 | **Zotek F30 foam packaging** | ~10 m³ / ~1000 kg | 3 (hardest) | PVDF foam (fluoropolymer); according to the manufacturer it is cross-linked, i.e. its molecular chains are joined together by crosslinks |
 | **Aluminium structural elements** | ~9 m³ / ~900 kg | 2 (medium) | >90% aluminium |
 | **Nitrile gloves** | ~0.22 m³ / ~41 kg | 1 (easiest) | nitrile rubber |
+
+Material properties referenced by the announcement: [Zotek F (manufacturer's page)](https://www.zotefoams.com/product/zotek/zotek-f-lightweight-pvdf-foam/) · [nitrile glove safety data sheet](https://www.medpride.com/media/MSDS-NITRILE-PF-EXAM-GLOVE-5050X.pdf)
 
 ## 3. The basic principle: cold preparation, solar heat
 

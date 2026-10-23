@@ -2,7 +2,7 @@
 
 # Correction Log
 
-**What was wrong in the original 2025 materials drafted with AI engines, and how we corrected it**
+**What was wrong in the original 2024–2025 materials drafted with AI engines, and how we corrected it**
 
 The original texts were prepared in late 2024 and early 2025 with the help of several AI engines. The ideas come from the author, but in the wording the engines introduced several claims that are physically or chemically incorrect. This log follows the author's validation principle: **we do not hide errors; we document and correct them.**
 
@@ -16,9 +16,9 @@ The original texts were prepared in late 2024 and early 2025 with the help of se
 | 6 | The 170 °C heat can be raised to 400–500 °C with **heat exchangers**. | A heat exchanger cannot raise temperature; it only transfers heat from a hotter to a colder medium. Higher temperatures require a solar concentrator or electric heating. | 02, Section 5 |
 | 7 | Plastics can be broken down by **pyrolysis** into gas, oil and char. | The challenge prohibits incineration and requires toxic emissions to be avoided. PVDF releases toxic hydrogen fluoride when heated. The corrected concept processes PVDF mechanically, without thermal decomposition. | 02, 4.1 |
 | 8 | Zotek F30 (PVDF) can be "dissolved" with peroxides and, by reacting it with LiPF₆, turned into battery electrolyte. | Peroxides are polymerisation initiators; they do not break the carbon–fluorine bond. In the battery industry PVDF is used as a binder and separator material; electrolyte is not made from it this way. This direction has been abandoned. | 02, 4.1 |
-| 9 | Zotek F30 can be melted above 200 °C and reshaped. | According to the manufacturer, Zotek F is a cross-linked foam, so it cannot be remelted like a simple thermoplastic. It can be used as regrind, i.e. as a filler. | 02, 4.1 |
+| 9 | Zotek F30 can be melted above 200 °C and reshaped. | According to the manufacturer, Zotek F is a cross-linked foam, so it cannot be remelted like a simple thermoplastic. It can be used as regrind or as a filler. | 02, 4.1 |
 | 10 | Ball milling can achieve **nanometre** particle size. | For a foamed polymer this is neither realistic nor necessary. For the composite, regrind of a few tenths of a millimetre is adequate. | 02, 4.1 |
-| 11 | The Moon is a "chemical- and radiation-free" environment. | The Moon is exposed to intense cosmic and solar radiation because it has no atmosphere or magnetic field. Radiation protection is an important design consideration. | 02, Section 6 |
+| 11 | The Moon is a "chemical- and radiation-free" environment. | The Moon is exposed to intense cosmic and solar radiation because it has no atmosphere or magnetic field. Radiation protection is an important design consideration. | Not carried over; it does not appear in the corrected texts |
 | 12 | The rotating magnetic field "attracts" metallic space debris. | A magnet does not attract aluminium (the main material of satellites). The rotating field induces eddy currents that brake the rotation. This is precisely what makes it suitable for detumbling spinning wrecks. | 03, 3.1 |
 | 13 | A recycling rate of 70–90% can be achieved. | This cannot be claimed without measurement. The corrected version treats it as an open question. | 02, Section 7 |
 
