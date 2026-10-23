@@ -12,7 +12,7 @@ Forrás: Dr. Páli Jenő 2025. február–márciusi levelei.
 
 - **Csapat:** Lunar Team Hungary. A csapatot Dr. Páli Jenő regisztrálta a NASA Centennial Challenges weboldalán (regisztrációs szám: #670), és csapatvezetőként (Team Leader) képviselte.
 - **Magyar részvétel:** a NASA Centennial Challenges addigi 23 versenyén még nem indult magyar csapat (Dr. Páli Jenő tájékoztatása).
-- **Lebonyolító:** a versenyt a The University of Alabama bonyolította. A részvételhez a csapatnak az egyetemmel 16 oldalas részvételi megállapodást (Phase 1 Team Agreement) kellett kötnie.
+- **Lebonyolító:** a versenyt az Alabamai Egyetem (The University of Alabama) bonyolította. A részvételhez a csapatnak az egyetemmel 16 oldalas részvételi megállapodást (Phase 1 Team Agreement) kellett kötnie.
 - **Hivatalos oldal:** [lunarecyclechallenge.ua.edu](https://lunarecyclechallenge.ua.edu/#project) · magyar nyelvű hír: [origo.hu](https://www.origo.hu/tudomany/2024/10/nasa-verseny-hold)
 - **Határidő (1. fázis):** 2025. március 31. — a jelentkezés és a megoldási javaslat benyújtása.
 - **Díjazás:** pénzdíjra csak amerikai állampolgárok és cégek jogosultak; nem amerikai csapatok is indulhatnak, de ők elismerést kaphatnak.

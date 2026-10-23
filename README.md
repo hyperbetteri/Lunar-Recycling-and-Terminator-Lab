@@ -40,4 +40,4 @@ Documents are in Hungarian.
 
 **Kapcsolódó / Related:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [LEGAL-RQV-Overview](https://github.com/hyperbetteri/LEGAL-RQV-Overview)
 
-© 2026 Almási Andor. Minden jog fenntartva. Forrásmegjelöléssel szabadon idézhető. / All rights reserved. Quotation with attribution is welcome.
+© 2026 Almási Andor. Minden jog fenntartva. Forrásmegjelöléssel szabadon idézhető. / All rights reserved. May be freely quoted with attribution.
