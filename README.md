@@ -1,44 +1,43 @@
-**Language:** [Magyar](README.md) | [English](README.en.md)
-# Holdi újrahasznosítás és terminátorkövető labor / Lunar Recycling and Terminator-Following Lab
+**Language / Nyelv:** [English](README.md) · [Magyar](README.hu.md)
 
-**Almási Andor** — koncepciótervek holdi hulladékfeldolgozásra és egy, a nappal és az éjszaka határát követő holdi laborra, a NASA LunaRecycle Challenge-re való 2025-ös felkészülés anyagaiból, műszakilag átnézve és kijavítva.
+# Lunar Recycling and Terminator-Following Lab
 
-> **English summary below.**
+**Almási Andor** — concept studies for lunar waste processing and for a lunar lab that follows the boundary between day and night, based on the materials prepared for the 2025 NASA LunaRecycle Challenge, technically reviewed and corrected.
 
-A 2025-ös anyagok **Dr. Páli Jenő** felkérésére készültek, aki a magyar csapatot (Lunar Team Hungary) szervezte, regisztrálta és csapatvezetőként képviselte, a versenykiírást feldolgozta, a feldolgozandó hulladéktételeket kiválasztotta, és a versenyre való felkészülést vezette. Tájékoztatása szerint a NASA Centennial Challenges addigi 23 versenyén még nem indult magyar csapat.
+The 2025 materials were prepared at the request of **Dr. Jenő Páli**, who organised and registered the Hungarian team (Lunar Team Hungary) and represented it as team leader, worked through the challenge announcement, selected the waste items to be processed, and led its preparation for the challenge. According to him, no Hungarian team had yet entered any of the 23 NASA Centennial Challenges held up to that point.
 
-## Tartalom
+## Contents
 
-| # | Dokumentum | Röviden |
+| # | Document | In brief |
 |---|---|---|
-| 01 | [Terminátorkövető holdi labor](01_Terminatorkoveto_holdi_labor.md) | Egy mozgó labor, amely a terminátorvonalat követve elkerüli a kéthetes holdi éjszakát. A pólusok közelében ehhez gyalogtempónál is lassabb mozgás elég. |
-| 02 | [LunaRecycle hulladékfeldolgozási koncepció](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | PVDF-hab, alumínium és nitril kesztyű feldolgozása holdi hideggel és koncentrált napfénnyel, hőbontás és mérgező kibocsátás nélkül. |
-| 03 | [Korábbi ötletek: űrszemét-begyűjtés](03_Korabbi_otletek_urszemet_begyujtes.md) | Érintésmentes befogás örvényáramos forgáscsillapítással és elektrosztatikus vontatással. |
-| 04 | [Javítási napló](04_Javitasi_naplo.md) | 13 pont: mi volt hibás az AI-motorokkal megfogalmazott eredeti szövegekben, és mi a helyes. |
+| 01 | [Terminator-following lunar lab](01_Terminatorkoveto_holdi_labor.en.md) | A mobile lab that avoids the two-week lunar night by following the terminator line. Near the poles, movement slower than walking pace is enough for this. |
+| 02 | [LunaRecycle waste processing concept](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md) | Processing PVDF foam, aluminium and nitrile gloves using lunar cold and concentrated sunlight, without thermal decomposition or toxic emissions. |
+| 03 | [Earlier ideas: space debris capture](03_Korabbi_otletek_urszemet_begyujtes.en.md) | Contactless capture using eddy-current detumbling and electrostatic towing. |
+| 04 | [Correction log](04_Javitasi_naplo.en.md) | 13 items: what was wrong in the original texts drafted with AI engines, and what is correct. |
 
-## Miért van javítási napló?
+## Why is there a correction log?
 
-Az eredeti anyagok 2024 végén és 2025 elején készültek, AI-motorok segítségével. Az ötletek a szerzőtől származnak, de a megfogalmazásba a motorok több fizikai és kémiai hibát is beírtak. Ez a repó a szerző validációs elvét követi: a hibákat nem elrejti, hanem dokumentálja és kijavítja. Ugyanez az elv áll az [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) hibaminta-regiszterének hátterében is.
+The original materials were prepared in late 2024 and early 2025 with the help of AI engines. The ideas come from the author, but the engines introduced several physical and chemical errors into the wording. This repository follows the author's validation principle: errors are not hidden but documented and corrected. The same principle underlies the failure-pattern register of [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations).
 
-## Állapot
+## Status
 
-Koncepcióterv. A feldolgozási láncok laboratóriumi kísérlettel még nincsenek igazolva.
+Concept study. The processing routes have not yet been verified by laboratory experiment.
 
 ---
 
-## English summary
+## Summary
 
 Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecycle Challenge**, prepared at the request of **Dr. Jenő Páli**, who organised and registered the team (Lunar Team Hungary), led it as Team Leader, worked through the official rules and selected the waste items to be processed. According to Dr. Páli, no Hungarian team had entered any of the 23 earlier NASA Centennial Challenges. The materials were reviewed and corrected in 2026:
 
 - **Terminator-following lunar lab** — a mobile lab that follows the day–night boundary and so never enters the two-week lunar night. The key point: the terminator moves at about 15 km/h at the equator, but only about 0.3–1.3 km/h at 85–89° latitude, where a full loop is a few hundred kilometres. Near the poles it can be followed by a slow, wheeled, modular platform.
 - **Recycling concept for the challenge** — PVDF foam (Zotek F30), aluminium struts and nitrile gloves processed using two free lunar resources: cold (for brittle cryogenic grinding) and concentrated sunlight (for melting aluminium and sintering regolith). The PVDF route is deliberately mechanical, avoiding thermal decomposition and toxic hydrogen fluoride.
 - **Earlier debris-capture idea** — contactless capture using eddy-current detumbling and electrostatic towing.
-- **Errata** — 13 documented errors in the original AI-assisted drafts (e.g. terminator speed, superconductor temperatures, heat-pump efficiency, PVDF chemistry) and their corrections.
+- **Correction log (errata)** — 13 documented errors in the original AI-assisted drafts (e.g. terminator speed, superconductor temperatures, heat-pump efficiency, PVDF chemistry) and their corrections.
 
-Documents are written in Hungarian; full English translations are available ([README.en.md](README.en.md)).
+The original documents are in Hungarian; the English versions linked above are full translations.
 
 ---
 
-**Kapcsolódó / Related:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [LEGAL-RQV-Overview](https://github.com/hyperbetteri/LEGAL-RQV-Overview)
+**Related:** [AI-Workflow-Validation-Portfolio](https://github.com/hyperbetteri/AI-Workflow-Validation-Portfolio) · [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations) · [Engineering-Case-Studies](https://github.com/hyperbetteri/Engineering-Case-Studies) · [LEGAL-RQV-Overview](https://github.com/hyperbetteri/LEGAL-RQV-Overview)
 
-© 2026 Almási Andor. Minden jog fenntartva. Forrásmegjelöléssel szabadon idézhető. / All rights reserved. May be freely quoted with attribution.
+© 2026 Almási Andor. All rights reserved. May be freely quoted with attribution.

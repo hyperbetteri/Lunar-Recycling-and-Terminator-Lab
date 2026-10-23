@@ -1,4 +1,4 @@
-**Language:** [Magyar](04_Javitasi_naplo.md) | [English](04_Javitasi_naplo.en.md)
+**Language / Nyelv:** [English](04_Javitasi_naplo.en.md) · [Magyar](04_Javitasi_naplo.md)
 
 # Correction Log
 

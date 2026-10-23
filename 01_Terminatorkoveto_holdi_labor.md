@@ -1,4 +1,5 @@
-**Language:** [Magyar](01_Terminatorkoveto_holdi_labor.md) | [English](01_Terminatorkoveto_holdi_labor.en.md)
+**Language / Nyelv:** [English](01_Terminatorkoveto_holdi_labor.en.md) · [Magyar](01_Terminatorkoveto_holdi_labor.md)
+
 # Terminátorkövető holdi kutató- és újrahasznosító labor
 
 **Koncepcióterv — javított, műszakilag átnézett változat**

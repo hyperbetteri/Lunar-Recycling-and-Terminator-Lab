@@ -1,4 +1,4 @@
-**Language:** [Magyar](03_Korabbi_otletek_urszemet_begyujtes.md) | [English](03_Korabbi_otletek_urszemet_begyujtes.en.md)
+**Language / Nyelv:** [English](03_Korabbi_otletek_urszemet_begyujtes.en.md) · [Magyar](03_Korabbi_otletek_urszemet_begyujtes.md)
 
 # Earlier Ideas: Space Debris Capture with Contactless Force Fields
 
