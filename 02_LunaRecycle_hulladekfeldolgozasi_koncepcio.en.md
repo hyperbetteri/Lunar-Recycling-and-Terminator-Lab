@@ -1,4 +1,4 @@
-**Language:** [Magyar](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | [English](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md)
+**Language / Nyelv:** [English](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md) · [Magyar](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md)
 
 # Lunar Waste Processing Concept for the NASA LunaRecycle Challenge
 
@@ -34,6 +34,8 @@ Source: Dr. Jenő Páli's emails of February–March 2025.
 | Temperature | 18–27 °C | 50–250 K (approx. −223 °C to −23 °C) |
 | Atmosphere composition | ~34% O₂, ~66% N₂ | — |
 | Size limit | 4 EXPRESS rack double lockers (the standard experiment locker of the International Space Station, each approx. 48 × 42 × 24 cm) | none |
+
+The external temperature range in the rules (50–250 K) does not include the equatorial daytime peak (about +120 °C, see [document 01](01_Terminatorkoveto_holdi_labor.en.md)); it matches polar conditions.
 
 **Key rules:**
 
@@ -83,7 +85,7 @@ PVDF is a fluoropolymer. **When heated (above about 350 °C) it releases hydroge
 
 1. Cutting and cleaning.
 2. **Melting** (660 °C) in a furnace powered by concentrated sunlight, or in an induction furnace, under shielding gas or in a vacuum.
-3. **Products:** cast parts (wrench, bracket, support) or wire. From the wire, a metal 3D printer (wire arc additive manufacturing) can produce any part: it melts the wire with an electric arc and builds up the object layer by layer.
+3. **Products:** cast parts (wrench, bracket, support) or wire. From the wire, a metal 3D printer (wire arc additive manufacturing) can produce any part: it melts the wire with an electric arc and builds up the object layer by layer. The arc process needs a shielding gas; in vacuum, electron-beam wire additive manufacturing (EBAM) is the more natural choice.
 
 The external vacuum is an advantage: the melt does not oxidise.
 

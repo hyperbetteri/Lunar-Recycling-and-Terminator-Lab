@@ -1,4 +1,4 @@
-**Language:** [Magyar](01_Terminatorkoveto_holdi_labor.md) | [English](01_Terminatorkoveto_holdi_labor.en.md)
+**Language / Nyelv:** [English](01_Terminatorkoveto_holdi_labor.en.md) · [Magyar](01_Terminatorkoveto_holdi_labor.md)
 
 # Terminator-Following Lunar Research and Recycling Lab
 

@@ -1,4 +1,5 @@
-**Language:** [Magyar](04_Javitasi_naplo.md) | [English](04_Javitasi_naplo.en.md)
+**Language / Nyelv:** [English](04_Javitasi_naplo.en.md) · [Magyar](04_Javitasi_naplo.md)
+
 # Javítási napló
 
 **Mi volt hibás a 2024–2025-ös, AI-motorokkal megfogalmazott eredeti anyagokban, és hogyan javítottuk**

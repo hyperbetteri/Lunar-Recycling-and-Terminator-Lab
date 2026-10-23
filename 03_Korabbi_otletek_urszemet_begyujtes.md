@@ -1,4 +1,5 @@
-**Language:** [Magyar](03_Korabbi_otletek_urszemet_begyujtes.md) | [English](03_Korabbi_otletek_urszemet_begyujtes.en.md)
+**Language / Nyelv:** [English](03_Korabbi_otletek_urszemet_begyujtes.en.md) · [Magyar](03_Korabbi_otletek_urszemet_begyujtes.md)
+
 # Korábbi ötletek: űrszemét-begyűjtés érintésmentes erőterekkel
 
 **Ötletvázlat (2024. november) — javított, műszakilag átnézett változat**

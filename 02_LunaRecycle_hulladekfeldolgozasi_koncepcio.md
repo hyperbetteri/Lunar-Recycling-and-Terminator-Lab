@@ -1,4 +1,5 @@
-**Language:** [Magyar](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | [English](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md)
+**Language / Nyelv:** [English](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md) · [Magyar](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md)
+
 # Holdi hulladékfeldolgozási koncepció a NASA LunaRecycle Challenge-hez
 
 **Koncepcióterv — javított, műszakilag átnézett változat**
@@ -33,6 +34,8 @@ Forrás: Dr. Páli Jenő 2025. február–márciusi levelei.
 | Hőmérséklet | 18–27 °C | 50–250 K (kb. −223 °C és −23 °C között) |
 | Légösszetétel | ~34% O₂, ~66% N₂ | — |
 | Méretkorlát | 4 db EXPRESS-rack dupla szekrény (a Nemzetközi Űrállomás szabványos kísérleti szekrénye, egyenként kb. 48 × 42 × 24 cm) | nincs |
+
+A kiírás külső hőmérséklet-tartománya (50–250 K) nem tartalmazza az egyenlítői nappali csúcsot (kb. +120 °C, lásd a [01-es dokumentumot](01_Terminatorkoveto_holdi_labor.md)); a pólusvidéki viszonyokhoz illeszkedik.
 
 **Fontos szabályok:**
 
@@ -82,7 +85,7 @@ A PVDF fluorpolimer. **Hevítésre (kb. 350 °C fölött) hidrogén-fluoridot (H
 
 1. Darabolás és tisztítás.
 2. **Olvasztás** (660 °C) koncentrált napfénnyel működő kemencében, vagy indukciós kemencében, védőgázban vagy vákuumban.
-3. **Termékek:** öntött alkatrészek (csavarkulcs, konzol, tartó), illetve huzal. A huzalból fém-3D-nyomtató (huzal-ív additív gyártás) tetszőleges alkatrészt tud készíteni: elektromos ívvel megolvasztja a huzalt, és rétegről rétegre építi fel a tárgyat.
+3. **Termékek:** öntött alkatrészek (csavarkulcs, konzol, tartó), illetve huzal. A huzalból fém-3D-nyomtató (huzal-ív additív gyártás) tetszőleges alkatrészt tud készíteni: elektromos ívvel megolvasztja a huzalt, és rétegről rétegre építi fel a tárgyat. Az ívhegesztéses eljáráshoz védőgáz kell; vákuumban az elektronsugaras, huzalos eljárás (EBAM) a természetesebb választás.
 
 A külső vákuum előny: az olvadék nem oxidálódik.
 
