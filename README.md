@@ -1,3 +1,4 @@
+**Language:** [Magyar](README.md) | [English](README.en.md)
 # Holdi újrahasznosítás és terminátorkövető labor / Lunar Recycling and Terminator-Following Lab
 
 **Almási Andor** — koncepciótervek holdi hulladékfeldolgozásra és egy, a nappal és az éjszaka határát követő holdi laborra, a NASA LunaRecycle Challenge-re való 2025-ös felkészülés anyagaiból, műszakilag átnézve és kijavítva.
