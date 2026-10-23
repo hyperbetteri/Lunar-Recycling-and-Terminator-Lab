@@ -1,6 +1,6 @@
 # Javítási napló
 
-**Mi volt hibás a 2025-ös, AI-motorokkal megfogalmazott eredeti anyagokban, és hogyan javítottuk**
+**Mi volt hibás a 2024–2025-ös, AI-motorokkal megfogalmazott eredeti anyagokban, és hogyan javítottuk**
 
 Az eredeti szövegek 2024 végén és 2025 elején készültek, több AI-motor segítségével. Az ötletek a szerzőtől származnak, a megfogalmazásban azonban a motorok több olyan állítást is beírtak, amely fizikailag vagy kémiailag hibás. Ez a napló a szerző validációs elvét követi: **a hibát nem elrejtjük, hanem dokumentáljuk és kijavítjuk.**
 
@@ -16,7 +16,7 @@ Az eredeti szövegek 2024 végén és 2025 elején készültek, több AI-motor s
 | 8 | A Zotek F30 (PVDF) peroxidokkal „feloldható”, és LiPF₆-tal reagáltatva akkumulátor-elektrolit lesz belőle. | A peroxidok polimerizációs iniciátorok, nem bontják a szén–fluor kötést. A PVDF-et az akkumulátoriparban kötőanyagként és szeparátorként használják, nem így készül belőle elektrolit. Ezt az irányt elhagytuk. | 02, 4.1 |
 | 9 | A Zotek F30 200 °C fölött megolvasztható és újraformázható. | A gyártó szerint a Zotek F térhálósított hab, ezért nem olvasztható vissza úgy, mint egy egyszerű hőre lágyuló műanyag. Őrleményként, töltőanyagként hasznosítható. | 02, 4.1 |
 | 10 | Golyós őrléssel **nanométeres** szemcseméret érhető el. | Egy habosított polimernél ez nem reális, és nem is szükséges. A kompozithoz a néhány tized milliméteres őrlemény is megfelelő. | 02, 4.1 |
-| 11 | A Hold „kemikália- és sugárzásmentes” környezet. | A Holdon erős a kozmikus és a napsugárzás, mert nincs légkör és mágneses tér. A sugárvédelem fontos tervezési szempont. | 02, 6. fejezet |
+| 11 | A Hold „kemikália- és sugárzásmentes” környezet. | A Holdon erős a kozmikus és a napsugárzás, mert nincs légkör és mágneses tér. A sugárvédelem fontos tervezési szempont. | Nem vettük át; a javított szövegekben nem szerepel |
 | 12 | A forgó mágneses tér „vonzza” a fém űrszemetet. | Az alumíniumot (a műholdak fő anyagát) a mágnes nem vonzza. A forgó tér örvényáramokat kelt, amelyek fékezik a forgást. Ez éppen a pörgő roncsok megnyugtatására jó. | 03, 3.1 |
 | 13 | 70–90%-os újrahasznosítási arány érhető el. | Mérés nélkül nem állítható. A javított változat ezt nyitott kérdésként kezeli. | 02, 7. fejezet |
 
