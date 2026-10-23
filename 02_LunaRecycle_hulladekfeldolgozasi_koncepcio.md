@@ -1,3 +1,4 @@
+**Language:** [Magyar](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | [English](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md)
 # Holdi hulladékfeldolgozási koncepció a NASA LunaRecycle Challenge-hez
 
 **Koncepcióterv — javított, műszakilag átnézett változat**
