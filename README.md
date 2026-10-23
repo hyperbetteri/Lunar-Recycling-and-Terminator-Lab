@@ -35,7 +35,7 @@ Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecy
 - **Earlier debris-capture idea** — contactless capture using eddy-current detumbling and electrostatic towing.
 - **Errata** — 13 documented errors in the original AI-assisted drafts (e.g. terminator speed, superconductor temperatures, heat-pump efficiency, PVDF chemistry) and their corrections.
 
-Documents are in Hungarian.
+Documents are written in Hungarian; full English translations are available ([README.en.md](README.en.md)).
 
 ---
 
