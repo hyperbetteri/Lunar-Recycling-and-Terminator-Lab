@@ -4,7 +4,7 @@
 
 > **English summary below.**
 
-A 2025-ös anyagok **Dr. Páli Jenő** felkérésére készültek, aki a magyar csapatot szervezte, és a versenyre való felkészülést vezette.
+A 2025-ös anyagok **Dr. Páli Jenő** felkérésére készültek, aki a magyar csapatot (Lunar Team Hungary) szervezte, regisztrálta és csapatvezetőként képviselte, a versenykiírást feldolgozta, a feldolgozandó hulladéktételeket kiválasztotta, és a versenyre való felkészülést vezette. Tájékoztatása szerint a NASA Centennial Challenges addigi 23 versenyén még nem indult magyar csapat.
 
 ## Tartalom
 
@@ -27,7 +27,7 @@ Koncepcióterv. A feldolgozási láncok laboratóriumi kísérlettel még nincse
 
 ## English summary
 
-Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecycle Challenge**, prepared at the request of **Dr. Jenő Páli**, who organised the team, reviewed and corrected in 2026:
+Concept studies from a Hungarian team's 2025 preparation for the **NASA LunaRecycle Challenge**, prepared at the request of **Dr. Jenő Páli**, who organised and registered the team (Lunar Team Hungary), led it as Team Leader, worked through the official rules and selected the waste items to be processed. According to Dr. Páli, no Hungarian team had entered any of the 23 earlier NASA Centennial Challenges. The materials were reviewed and corrected in 2026:
 
 - **Terminator-following lunar lab** — a mobile lab that follows the day–night boundary and so never enters the two-week lunar night. The key point: the terminator moves at about 15 km/h at the equator, but only about 0.3–1.3 km/h at 85–89° latitude, where a full loop is a few hundred kilometres. Near the poles it can be followed by a slow, wheeled, modular platform.
 - **Recycling concept for the challenge** — PVDF foam (Zotek F30), aluminium struts and nitrile gloves processed using two free lunar resources: cold (for brittle cryogenic grinding) and concentrated sunlight (for melting aluminium and sintering regolith). The PVDF route is deliberately mechanical, avoiding thermal decomposition and toxic hydrogen fluoride.
