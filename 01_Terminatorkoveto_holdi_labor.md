@@ -20,7 +20,9 @@ A terminátorvonal a Hold felszínén annál lassabban halad, minél közelebb v
 
 ```
 v(φ) = 2π · R_Hold · cos(φ) / T_szinodikus
-R_Hold ≈ 1737 km,  T_szinodikus ≈ 29,53 nap ≈ 708,7 óra
+R_Hold ≈ 1737 km  (a Hold sugara)
+T_szinodikus ≈ 29,53 nap ≈ 708,7 óra  (egy holdi nap hossza, napkeltétől napkeltéig)
+φ = a földrajzi szélesség a Holdon
 ```
 
 | Szélesség (φ) | A terminátor sebessége | Egy teljes kör hossza |
@@ -33,13 +35,13 @@ R_Hold ≈ 1737 km,  T_szinodikus ≈ 29,53 nap ≈ 708,7 óra
 
 **Ez a koncepció legerősebb érve.** Az Egyenlítőnél egy labornak folyamatosan ~15 km/órával kellene haladnia, ami egy nehéz, ipari létesítménynek irreális. A pólus közelében viszont — például a 88–89. szélességi körön — **gyalogtempónál is lassabb** mozgás elegendő, és a teljes kör csak néhány száz kilométer. Ez egy nehéz, lassan haladó platformmal is követhető.
 
-Ráadásul a Hold tengelyferdesége mindössze kb. 1,5°, ezért a pólusok közelében a Nap mindig a horizont közelében jár. Egyes magaslatokon szinte folyamatos a megvilágítás („örök fény csúcsai”), a közeli kráterek mélyén pedig tartósan árnyékos, rendkívül hideg (kb. 25–40 K) területek vannak, amelyekben vízjég is lehet. A pólusvidék tehát egyszerre ad **energiát, hideget és vizet**.
+Ráadásul a Hold tengelyferdesége mindössze kb. 1,5°, ezért a pólusok közelében a Nap mindig a horizont közelében jár. Egyes magaslatokon szinte folyamatos a megvilágítás — ezeket a szakirodalom „örök fény csúcsainak” nevezi (angolul: *peaks of eternal light*), ami egyszerűen azt jelenti, hogy ott a Nap az év nagy részében nem bukik a horizont alá. A közeli kráterek mélyén pedig tartósan árnyékos, rendkívül hideg (kb. 25–40 K, vagyis −250 °C körüli) területek vannak, amelyekben vízjég is lehet. A pólusvidék tehát egyszerre ad **energiát, hideget és vizet**.
 
 ## 3. Mozgatás: lebegő pálya vagy kerekes platform?
 
 Az eredeti terv szupravezető mágneses lebegtetésű (maglev) pályát javasolt. Ez hosszú távú vízióként érdekes, de két korlátja van:
 
-1. **A szupravezetők hőmérséklete.** A gyakorlatban használt magas hőmérsékletű szupravezetők (pl. YBCO) kritikus hőmérséklete kb. 92 K (−181 °C), üzemi hőmérséklete jellemzően 65–77 K. A −150 °C (123 K) ehhez **nem elég hideg**. Sugárzó hűtőfelületekkel és aktív kriohűtőkkel elérhető, de nem „magától” adódik.
+1. **A szupravezetők hőmérséklete.** A gyakorlatban használt magas hőmérsékletű szupravezetők (pl. az YBCO nevű kerámia) kritikus hőmérséklete kb. 92 K (−181 °C), üzemi hőmérséklete jellemzően 65–77 K. A −150 °C (123 K) ehhez **nem elég hideg**. Sugárzó hűtőfelületekkel és kifejezetten nagyon alacsony hőmérsékletre tervezett hűtőgépekkel (kriohűtőkkel) elérhető, de nem „magától” adódik.
 2. **A pálya mérete.** Akár egy 190 km-es kör is hatalmas mennyiségű, a Földről felszállítandó vagy helyben gyártandó pályaanyagot igényel.
 
 **Javasolt lépcsőzetes megoldás:**
@@ -48,14 +50,14 @@ Az eredeti terv szupravezető mágneses lebegtetésű (maglev) pályát javasolt
 |---|---|---|
 | 1. | Kerekes vagy lánctalpas, lassú platform | A szükséges 0,3–1,3 km/óra sebesség kerekekkel könnyen elérhető, pálya nélkül. |
 | 2. | Moduláris egységek láncolata | Több kisebb modul vándorol együtt; egy meghibásodott egység nem állítja le az egészet. |
-| 3. | Helyben gyártott pálya, később lebegtetés | Ha a regolitból már gyárthatók építőelemek, a pálya fokozatosan kiépíthető. |
+| 3. | Helyben gyártott pálya, később lebegtetés | Ha a regolitból (a Hold felszínét borító laza kőzetporból és törmelékből) már gyárthatók építőelemek, a pálya fokozatosan kiépíthető. |
 
 ## 4. Energia és hő
 
 - **Napelemek:** a pólus közelében a Nap alacsonyan áll, ezért **függőleges, forgatható napelemtáblák** kellenek, amelyek követik a Nap irányát. A terminátor követése miatt ezek gyakorlatilag folyamatosan termelnek.
 - **Energiatárolás:** mivel a labor elkerüli a kéthetes éjszakát, csak rövid kiesésekre (domborzati árnyék, karbantartás) kell tárolás. Ehhez akkumulátorok elegendők. A szuperkondenzátorok csak rövid csúcsterhelésekre jók, hosszabb tárolásra kicsi az energiasűrűségük.
 - **Hőelvezetés:** az árnyékos oldal felé fordított sugárzó hűtőfelületek a hideg égbolt felé adják le a hőt. Ez természetes előnye a helyszínnek.
-- **Magas hőmérséklet:** légkör hiányában a **koncentrált napfény** (tükrök, Fresnel-lencsék) könnyen ezer fok fölötti hőmérsékletet ad. Ez alkalmas alumíniumolvasztásra (660 °C) és a regolit szinterezésére is. Ez a megoldás jóval hatékonyabb, mint a hőszivattyúk (lásd a javítási naplót).
+- **Magas hőmérséklet:** légkör hiányában a **koncentrált napfény** (tükrök vagy lapos gyűjtőlencsék, ún. Fresnel-lencsék) könnyen ezer fok fölötti hőmérsékletet ad. Ez alkalmas alumíniumolvasztásra (660 °C) és a regolit szinterezésére is, vagyis arra, hogy a port olvadáspont alatti hevítéssel szilárd tömbbé süssük össze. Ez a megoldás jóval hatékonyabb, mint a hőszivattyúk (lásd a javítási naplót).
 
 ## 5. Mit dolgozna fel a labor?
 
@@ -64,7 +66,7 @@ Az eredeti koncepció a Föld körüli pályán keringő űrszemét Holdra szál
 Ezért a reális sorrend:
 
 1. **A holdbázison keletkező hulladék** — csomagolóanyagok, textíliák, szerkezeti elemek. Pontosan ezt célozza a NASA LunaRecycle Challenge versenye (lásd a [02 – LunaRecycle koncepció](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) dokumentumot).
-2. **A Holdon már ott lévő ember alkotta eszközök** — régi leszállóegységek, becsapódott rakétafokozatok. A becslések szerint ezek összesen nagyjából 180–200 tonnát tesznek ki.
+2. **A Holdon már ott lévő ember alkotta eszközök** — régi leszállóegységek, becsapódott rakétafokozatok. Ezek összes tömegét a becslések több mint 180 tonnára teszik.
 3. **Hosszú távon** a Hold körüli pályán lévő eszközök, és csak egészen hosszú távon a Föld körüli űrszemét.
 
 ## 6. Mesterséges intelligencia a rendszerben

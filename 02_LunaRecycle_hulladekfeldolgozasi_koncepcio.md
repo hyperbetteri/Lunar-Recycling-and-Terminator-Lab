@@ -4,7 +4,7 @@
 
 Szerző: Almási Andor · Eredeti anyagok: 2025. február–március · Javított változat: 2026. október
 
-> **Háttér.** A NASA LunaRecycle Challenge (a Centennial Challenges program része) olyan megoldásokat keres, amelyek egy holdbázison keletkező szilárd hulladékot hasznos anyaggá vagy termékké alakítanak. Ez a dokumentum egy magyar csapat 2025-ös felkészülése során készült anyagok javított változata. Az eredeti, AI-motorok segítségével megfogalmazott szövegekben több műszaki hiba volt; ezeket a [04 – Javítási napló](04_Javitasi_naplo.md) sorolja fel.
+> **Háttér.** A NASA LunaRecycle Challenge (a Centennial Challenges program része) olyan megoldásokat keres, amelyek egy holdbázison keletkező szilárd hulladékot hasznos anyaggá vagy termékké alakítanak. Ez a dokumentum egy magyar csapat 2025-ös felkészülése során készült anyagok javított változata. Az anyagok **Dr. Páli Jenő** felkérésére készültek, aki a csapatot szervezte, a versenyfelhívást feldolgozta, és a feldolgozandó három hulladéktételt kiválasztotta. Az eredeti, AI-motorok segítségével megfogalmazott szövegekben több műszaki hiba volt; ezeket a [04 – Javítási napló](04_Javitasi_naplo.md) sorolja fel.
 
 ## 1. A verseny keretei (a nyilvános kiírás alapján)
 
@@ -16,15 +16,15 @@ Szerző: Almási Andor · Eredeti anyagok: 2025. február–március · Javítot
 |---|---|---|
 | Gravitáció | 1,625 m/s² | 1,625 m/s² |
 | Légnyomás | 57,2 kPa | 0,3 nPa (gyakorlatilag vákuum) |
-| Hőmérséklet | 18–27 °C | 50–250 K |
+| Hőmérséklet | 18–27 °C | 50–250 K (kb. −223 °C és −23 °C között) |
 | Légösszetétel | ~34% O₂, ~66% N₂ | — |
-| Méretkorlát | 4 db EXPRESS-rack dupla szekrény | nincs |
+| Méretkorlát | 4 db EXPRESS-rack dupla szekrény (a Nemzetközi Űrállomás szabványos kísérleti szekrénye, egyenként kb. 48 × 42 × 24 cm) | nincs |
 
 **Fontos szabályok:**
 
 - a hulladék **nem égethető el**;
 - kerülni kell a mérgező kibocsátást, a **PFAS-vegyületeket** (per- és polifluorozott anyagok) és a **mikroműanyagot**; ha mégis keletkeznek, ezt kötelező bejelenteni;
-- a holdi **regolit** szabadon felhasználható;
+- a holdi **regolit** (a Hold felszínét borító laza kőzetpor és törmelék) szabadon felhasználható;
 - javaslatot kell tenni a **holdpor elleni védelemre**.
 
 ## 2. A kiválasztott három hulladéktétel
@@ -33,7 +33,7 @@ A csapat a 17 tételből hármat választott, a három nehézségi szintből egy
 
 | Tétel | Mennyiség (1 év, 8 fő) | Nehézség | Anyag |
 |---|---|---|---|
-| **Zotek F30 habosított csomagolóanyag** | ~10 m³ / ~1000 kg | 3 (legnehezebb) | térhálósított PVDF-hab (fluorpolimer) |
+| **Zotek F30 habosított csomagolóanyag** | ~10 m³ / ~1000 kg | 3 (legnehezebb) | PVDF-hab (fluorpolimer); a gyártó szerint térhálósított, vagyis a molekulaláncai keresztkötésekkel össze vannak kapcsolva |
 | **Alumínium szerkezeti elemek** | ~9 m³ / ~900 kg | 2 (közepes) | >90% alumínium |
 | **Nitril kesztyű** | ~0,22 m³ / ~41 kg | 1 (legkönnyebb) | nitrilkaucsuk |
 
@@ -41,7 +41,7 @@ A csapat a 17 tételből hármat választott, a három nehézségi szintből egy
 
 A Holdon két „ingyenes” erőforrás van, amelyet a Földön drága előállítani:
 
-- **Hideg:** az árnyékos oldalon és éjjel a hőmérséklet 100 K alá eshet. Ezen a hőmérsékleten a legtöbb polimer **rideggé válik**, és mechanikusan könnyen porítható (kriogén őrlés), folyékony nitrogén nélkül.
+- **Hideg:** az árnyékos oldalon és éjjel a hőmérséklet 100 K (−173 °C) alá eshet. Ezen a hőmérsékleten a legtöbb műanyag és gumi **üvegszerűen rideggé válik**, és mechanikusan könnyen porrá őrölhető. Ezt hívják kriogén (mélyhideg) őrlésnek; a Földön ehhez folyékony nitrogén kell, a Holdon a természetes hideg is elég.
 - **Koncentrált napfény:** légkör nélkül a tükrökkel vagy Fresnel-lencsékkel összegyűjtött napfény **ezer fok fölé** emelheti a hőmérsékletet. Ez fém olvasztására és a regolit szinterezésére is elegendő.
 
 A [terminátorkövető labor](01_Terminatorkoveto_holdi_labor.md) mindkettőhöz folyamatos hozzáférést ad: az egyik oldalon napfény, a másikon árnyék.
@@ -53,7 +53,7 @@ A [terminátorkövető labor](01_Terminatorkoveto_holdi_labor.md) mindkettőhöz
 A PVDF fluorpolimer. **Hevítésre (kb. 350 °C fölött) hidrogén-fluoridot (HF) bocsát ki**, amely erősen mérgező és maró. A PVDF egyes nemzetközi definíciók szerint maga is PFAS-nak minősül. Ezért a javasolt út **nem bontja el kémiailag** az anyagot, hanem mechanikusan alakítja át:
 
 1. **Kriogén őrlés** zárt őrlőben: a hideg miatt rideg habot apró szemcsékké őröljük.
-2. **Kompozit készítése:** a PVDF-őrleményt holdi regolittal és kötőanyagként a hulladékból visszanyert polietilénnel (a kiírásban több tiszta PE-tétel is szerepel) keverjük.
+2. **Kompozit készítése:** a PVDF-őrleményt holdi regolittal és kötőanyagként a hulladékból visszanyert polietilénnel (a kiírásban több tiszta polietilén hulladéktétel is szerepel, pl. buborékfólia és légpárna) keverjük.
 3. **Melegsajtolás** mérsékelt hőmérsékleten (150–200 °C), jóval a PVDF bomlási hőmérséklete alatt.
 4. **Termékek:** hőszigetelő lapok, burkolólapok, csőtartók, tálcák, távtartók.
 
@@ -63,7 +63,7 @@ A PVDF fluorpolimer. **Hevítésre (kb. 350 °C fölött) hidrogén-fluoridot (H
 
 1. Darabolás és tisztítás.
 2. **Olvasztás** (660 °C) koncentrált napfénnyel működő kemencében, vagy indukciós kemencében, védőgázban vagy vákuumban.
-3. **Termékek:** öntött alkatrészek (csavarkulcs, konzol, tartó), illetve huzal, amely huzalos fémnyomtatóval (huzal-ív additív gyártás) tetszőleges alkatrésszé alakítható.
+3. **Termékek:** öntött alkatrészek (csavarkulcs, konzol, tartó), illetve huzal. A huzalból fém-3D-nyomtató (huzal-ív additív gyártás) tetszőleges alkatrészt tud készíteni: elektromos ívvel megolvasztja a huzalt, és rétegről rétegre építi fel a tárgyat.
 
 A külső vákuum előny: az olvadék nem oxidálódik.
 
@@ -77,7 +77,7 @@ A külső vákuum előny: az olvadék nem oxidálódik.
 
 | Feladat | Hőmérséklet | Javasolt forrás |
 |---|---|---|
-| Kriogén őrlés | < 150 K | Árnyékoldali sugárzó hűtés |
+| Kriogén őrlés | 150 K (−123 °C) alatt | Árnyékoldali sugárzó hűtés |
 | Polimer melegsajtolás | 150–200 °C | Elektromos fűtés napelemről, vagy kis koncentrálású napkollektor |
 | Alumíniumolvasztás | ~700 °C | Koncentrált napfény (napkemence) |
 | Regolit-szinterezés | ~1100 °C | Koncentrált napfény |

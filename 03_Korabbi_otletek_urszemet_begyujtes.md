@@ -23,11 +23,11 @@ Két érintésmentes erőtér együttes használata, napenergiával működtetve
 
 Az eredeti szöveg azt írta, hogy a forgó mágneses tér „vonzza” a fémeket. Ez az űrszemét nagy részére **nem igaz**: az alumínium, amelyből a legtöbb műholdszerkezet készül, nem ferromágneses, a mágnes nem húzza.
 
-A valódi hatás más, és éppen ezért hasznos: a változó mágneses tér a fémben **örvényáramokat** kelt, és ezek a Lenz-törvény szerint **fékezik a tárgy mozgását a térhez képest**. Ez alkalmas arra, hogy egy pörgő, bukdácsoló műholdroncs forgását érintés nélkül lelassítsuk. Ezt a szakirodalom **örvényáramos forgáscsillapításnak** (eddy-current detumbling) nevezi, és valóban kutatott technológia. A megnyugtatott roncsot utána már biztonságosan meg lehet fogni.
+A valódi hatás más, és éppen ezért hasznos: a változó mágneses tér a fémben **örvényáramokat** kelt, és ezek az elektromágneses indukció alaptörvénye (Lenz-törvény) szerint **fékezik a tárgy mozgását a térhez képest**. Ugyanezen az elven működik az örvényáramú fék a vonatokon és a teherautókon. Ez alkalmas arra, hogy egy pörgő, bukdácsoló műholdroncs forgását érintés nélkül lelassítsuk. Ezt a szakirodalom **örvényáramos forgáscsillapításnak** (eddy-current detumbling) nevezi, és valóban kutatott technológia. A megnyugtatott roncsot utána már biztonságosan meg lehet fogni.
 
 ### 3.2. Elektrosztatikus tér: érintésmentes vontatás
 
-A feltöltött begyűjtő egység és a szintén feltöltött tárgy közötti elektrosztatikus erő **gyenge, de folyamatos** húzóerőt ad. Ez néhány tíz méteres távolságból képes lassan elmozdítani nagy tömegű tárgyakat is, például geostacionárius pályáról temetőpályára. A szakirodalomban ez az **elektrosztatikus vontatás** (electrostatic tractor) koncepciója.
+A feltöltött begyűjtő egység és a szintén feltöltött tárgy közötti elektrosztatikus erő **gyenge, de folyamatos** húzóerőt ad. Ez néhány tíz méteres távolságból képes lassan elmozdítani nagy tömegű tárgyakat is, például a geostacionárius pályáról egy kicsit magasabb, úgynevezett temetőpályára, ahol a kiöregedett műholdak már nem zavarják a működőket. A szakirodalomban ez az **elektrosztatikus vontatás** (electrostatic tractor) koncepciója.
 
 ### 3.3. Napenergia
 
