@@ -5,7 +5,20 @@
 
 Szerző: Almási Andor · Eredeti anyagok: 2025. február–március · Javított változat: 2026. október
 
-> **Háttér.** A NASA LunaRecycle Challenge (a Centennial Challenges program része) olyan megoldásokat keres, amelyek egy holdbázison keletkező szilárd hulladékot hasznos anyaggá vagy termékké alakítanak. Ez a dokumentum egy magyar csapat 2025-ös felkészülése során készült anyagok javított változata. Az anyagok **Dr. Páli Jenő** felkérésére készültek, aki a csapatot szervezte, a versenyfelhívást feldolgozta, és a feldolgozandó három hulladéktételt kiválasztotta. Az eredeti, AI-motorok segítségével megfogalmazott szövegekben több műszaki hiba volt; ezeket a [04 – Javítási napló](04_Javitasi_naplo.md) sorolja fel.
+> **Háttér.** A NASA LunaRecycle Challenge (a Centennial Challenges program része) olyan megoldásokat keres, amelyek egy holdbázison keletkező szilárd hulladékot hasznos anyaggá vagy termékké alakítanak. Ez a dokumentum egy magyar csapat 2025-ös felkészülése során készült anyagok javított változata. Az anyagok **Dr. Páli Jenő** felkérésére készültek, aki a Lunar Team Hungary csapatot szervezte, regisztrálta és csapatvezetőként képviselte, a versenyfelhívást feldolgozta, és a feldolgozandó három hulladéktételt kiválasztotta. Az eredeti, AI-motorok segítségével megfogalmazott szövegekben több műszaki hiba volt; ezeket a [04 – Javítási napló](04_Javitasi_naplo.md) sorolja fel.
+
+## A csapat és a jelentkezés
+
+Forrás: Dr. Páli Jenő 2025. február–márciusi levelei.
+
+- **Csapat:** Lunar Team Hungary. A csapatot Dr. Páli Jenő regisztrálta a NASA Centennial Challenges weboldalán (regisztrációs szám: #670), és csapatvezetőként (Team Leader) képviselte.
+- **Magyar részvétel:** a NASA Centennial Challenges addigi 23 versenyén még nem indult magyar csapat (Dr. Páli Jenő tájékoztatása).
+- **Lebonyolító:** a versenyt az Alabamai Egyetem (The University of Alabama) bonyolította. A részvételhez a csapatnak az egyetemmel 16 oldalas részvételi megállapodást (Phase 1 Team Agreement) kellett kötnie.
+- **Hivatalos oldal:** [lunarecyclechallenge.ua.edu](https://lunarecyclechallenge.ua.edu/#project) · magyar nyelvű hír: [origo.hu](https://www.origo.hu/tudomany/2024/10/nasa-verseny-hold)
+- **Határidő (1. fázis):** 2025. március 31. — a jelentkezés és a megoldási javaslat benyújtása.
+- **Díjazás:** pénzdíjra csak amerikai állampolgárok és cégek jogosultak; nem amerikai csapatok is indulhatnak, de ők elismerést kaphatnak.
+- **Részvételi feltételek:** minden csapattagnak egyénileg kellett regisztrálnia, személyazonosságát és állampolgárságát igazolva, a csapatnak pedig 5000 USD összegű biztosítást vagy pénzügyi fedezetet (Proof of Insurance / Proof of Funds) kellett igazolnia.
+- **A kiírás feldolgozása:** Dr. Páli Jenő a 44 oldalas versenykiírást (Phase 1 Rules) végigolvasta, a lényeges részeket kiemelte, és a még nem tisztázott részvételi feltételekről megkereste a szervezőket.
 
 ## 1. A verseny keretei (a nyilvános kiírás alapján)
 
@@ -25,18 +38,23 @@ Szerző: Almási Andor · Eredeti anyagok: 2025. február–március · Javítot
 
 - a hulladék **nem égethető el**;
 - kerülni kell a mérgező kibocsátást, a **PFAS-vegyületeket** (per- és polifluorozott anyagok) és a **mikroműanyagot**; ha mégis keletkeznek, ezt kötelező bejelenteni;
-- a holdi **regolit** (a Hold felszínét borító laza kőzetpor és törmelék) szabadon felhasználható;
-- javaslatot kell tenni a **holdpor elleni védelemre**.
+- a holdi **regolit** (a Hold felszínét borító laza kőzetpor és törmelék) bármilyen mennyiségben szabadon felhasználható (specifikáció: [LHS-1](https://sciences.ucf.edu/class/wp-content/uploads/sites/23/2019/02/Spec_LHS-1.pdf));
+- az első fázisban külön nem kell a holdporral foglalkozni, de javaslatot kell tenni a **holdpor elleni védelemre**;
+- az első fázisban beadott terv nem feltétele a második fázisnak (prototípus építése): ott más ötlettel, eljárással és hulladéktípussal is lehet indulni.
+
+**Elvárt termékek (példák a kiírásból):** konyhai eszközök, törölközők, törlőkendők, nitril kesztyű, étel-, víz-, vegyianyag- és gáztárolók, használati és szerelési eszközök (kábelkötegelő, pántok, hevederek, csavarkulcsok, csavarok), valamint olyan mindennapi tárgyak, amelyeket költségmegtakarítás miatt amúgy nem vinnének fel az űrbe.
 
 ## 2. A kiválasztott három hulladéktétel
 
-A csapat a 17 tételből hármat választott, a három nehézségi szintből egyet-egyet:
+Dr. Páli Jenő a 6 hulladékkategória 17 tételéből hármat választott ki, a három nehézségi szintből egyet-egyet:
 
 | Tétel | Mennyiség (1 év, 8 fő) | Nehézség | Anyag |
 |---|---|---|---|
 | **Zotek F30 habosított csomagolóanyag** | ~10 m³ / ~1000 kg | 3 (legnehezebb) | PVDF-hab (fluorpolimer); a gyártó szerint térhálósított, vagyis a molekulaláncai keresztkötésekkel össze vannak kapcsolva |
 | **Alumínium szerkezeti elemek** | ~9 m³ / ~900 kg | 2 (közepes) | >90% alumínium |
 | **Nitril kesztyű** | ~0,22 m³ / ~41 kg | 1 (legkönnyebb) | nitrilkaucsuk |
+
+A kiírás által hivatkozott anyagjellemzők: [Zotek F (gyártói oldal)](https://www.zotefoams.com/product/zotek/zotek-f-lightweight-pvdf-foam/) · [nitril kesztyű biztonsági adatlap](https://www.medpride.com/media/MSDS-NITRILE-PF-EXAM-GLOVE-5050X.pdf)
 
 ## 3. Az alapelv: hideg előkészítés, napfényes hő
 
