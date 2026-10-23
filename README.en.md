@@ -17,7 +17,7 @@ The 2025 materials were prepared at the request of **Dr. Jenő Páli**, who orga
 
 ## Why is there a correction log?
 
-The original materials were prepared in late 2024 and early 2025 with the help of AI engines. The ideas come from the author, but the engines introduced several physical and chemical errors into the wording. This repository follows the author's validation principle: errors are not hidden but documented and corrected. The same principle underlies the error-pattern register of [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations).
+The original materials were prepared in late 2024 and early 2025 with the help of AI engines. The ideas come from the author, but the engines introduced several physical and chemical errors into the wording. This repository follows the author's validation principle: errors are not hidden but documented and corrected. The same principle underlies the failure-pattern register of [AI-Engine-Observations](https://github.com/hyperbetteri/AI-Engine-Observations).
 
 ## Status
 
