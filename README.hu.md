@@ -11,7 +11,7 @@ A 2025-ös anyagok **Dr. Páli Jenő** felkérésére készültek, aki a magyar 
 | # | Dokumentum | Röviden |
 |---|---|---|
 | 01 | [Terminátorkövető holdi labor](01_Terminatorkoveto_holdi_labor.md) | Egy mozgó labor, amely a terminátorvonalat követve elkerüli a kéthetes holdi éjszakát. A pólusok közelében ehhez gyalogtempónál is lassabb mozgás elég. |
-| 02 | [LunaRecycle hulladékfeldolgozási koncepció](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | PVDF-hab, alumínium és nitril kesztyű feldolgozása holdi hideggel és koncentrált napfénnyel, hőbontás és mérgező kibocsátás nélkül. |
+| 02 | [LunaRecycle hulladékfeldolgozási koncepció](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.md) | PVDF-hab, alumínium és nitril kesztyű feldolgozása holdi hideggel és koncentrált napfénnyel, hőbontás nélkül, a mérgező hidrogén-fluorid elkerülésével. |
 | 03 | [Korábbi ötletek: űrszemét-begyűjtés](03_Korabbi_otletek_urszemet_begyujtes.md) | Érintésmentes befogás örvényáramos forgáscsillapítással és elektrosztatikus vontatással. |
 | 04 | [Javítási napló](04_Javitasi_naplo.md) | 13 pont: mi volt hibás az AI-motorokkal megfogalmazott eredeti szövegekben, és mi a helyes. |
 

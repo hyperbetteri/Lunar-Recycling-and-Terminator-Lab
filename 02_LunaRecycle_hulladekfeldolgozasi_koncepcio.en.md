@@ -120,4 +120,4 @@ Lunar dust has sharp-edged grains, becomes electrostatically charged and gets in
 
 ## 8. Summary
 
-The corrected concept builds on two natural advantages of the Moon: **cold**, which makes grinding simple, and **concentrated sunlight**, which enables high-temperature processing. For the hardest item, PVDF foam, it deliberately **avoids thermal decomposition**, thereby preventing the formation of toxic hydrogen fluoride, and complies with the challenge's PFAS and emission rules.
+The corrected concept builds on two natural advantages of the Moon: **cold**, which makes grinding simple, and **concentrated sunlight**, which enables high-temperature processing. For the hardest item, PVDF foam, it deliberately **avoids thermal decomposition**, thereby preventing the formation of toxic hydrogen fluoride, and handles PFAS content and microplastic dust in line with the challenge's declaration rule.
