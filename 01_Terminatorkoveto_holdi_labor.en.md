@@ -35,6 +35,8 @@ T_synodic ≈ 29.53 days ≈ 708.7 hours  (length of one lunar day, from sunrise
 | 88° | ≈ 0.5 km/h | ≈ 380 km |
 | 89° | ≈ 0.27 km/h | ≈ 190 km |
 
+> **Note on the 89° row.** The table assumes flat terrain and an untilted rotation axis. Because of the Moon's axial tilt of about 1.5°, at the 89th parallel on flat terrain the Sun does not rise above the horizon for part of each year (roughly two to three months), so there is no terminator to follow there during that period; in another part of the year it does not set at all. This does not stop the lab moving along its track: the period without sunlight is bridged by the on-board energy storage, during which only life-critical equipment is operated. At the 88th parallel and towards the equator, the terminator can be followed all year round.
+
 **This is the strongest argument for the concept.** At the equator a lab would have to travel continuously at ~15 km/h, which is unrealistic for a heavy industrial facility. Near the pole, however — for example at the 88th–89th parallel — movement **slower than walking pace** is sufficient, and the full loop is only a few hundred kilometres. This can be followed even by a heavy, slow-moving platform.
 
 Moreover, the Moon's axial tilt is only about 1.5°, so near the poles the Sun always stays close to the horizon. Some elevated sites receive almost continuous illumination — the literature calls these *peaks of eternal light*, which simply means that there the Sun does not set below the horizon for most of the year. Meanwhile, deep inside nearby craters there are permanently shadowed, extremely cold areas (about 25–40 K, i.e. around −250 °C) that may contain water ice. The polar region thus provides **energy, cold and water** at the same time.
