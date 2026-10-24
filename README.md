@@ -11,7 +11,7 @@ The 2025 materials were prepared at the request of **Dr. Jenő Páli**, who orga
 | # | Document | In brief |
 |---|---|---|
 | 01 | [Terminator-following lunar lab](01_Terminatorkoveto_holdi_labor.en.md) | A mobile lab that avoids the two-week lunar night by following the terminator line. Near the poles, movement slower than walking pace is enough for this. |
-| 02 | [LunaRecycle waste processing concept](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md) | Processing PVDF foam, aluminium and nitrile gloves using lunar cold and concentrated sunlight, without thermal decomposition or toxic emissions. |
+| 02 | [LunaRecycle waste processing concept](02_LunaRecycle_hulladekfeldolgozasi_koncepcio.en.md) | Processing PVDF foam, aluminium and nitrile gloves using lunar cold and concentrated sunlight, without thermal decomposition, avoiding toxic hydrogen fluoride. |
 | 03 | [Earlier ideas: space debris capture](03_Korabbi_otletek_urszemet_begyujtes.en.md) | Contactless capture using eddy-current detumbling and electrostatic towing. |
 | 04 | [Correction log](04_Javitasi_naplo.en.md) | 13 items: what was wrong in the original texts drafted with AI engines, and what is correct. |
 

@@ -120,4 +120,4 @@ A holdpor éles szemcséjű, elektrosztatikusan feltöltődik, és minden résbe
 
 ## 8. Összegzés
 
-A javított koncepció a Hold két természetes előnyére épít: a **hidegre**, amely az őrlést teszi egyszerűvé, és a **koncentrált napfényre**, amely a magas hőmérsékletű feldolgozást. A legnehezebb tétel, a PVDF-hab esetében szándékosan **kerüli a hőbontást**, így elkerüli a mérgező hidrogén-fluorid képződését, és illeszkedik a verseny PFAS- és kibocsátási szabályaihoz.
+A javított koncepció a Hold két természetes előnyére épít: a **hidegre**, amely az őrlést teszi egyszerűvé, és a **koncentrált napfényre**, amely a magas hőmérsékletű feldolgozást. A legnehezebb tétel, a PVDF-hab esetében szándékosan **kerüli a hőbontást**, így elkerüli a mérgező hidrogén-fluorid képződését, a PFAS-tartalmat és a mikroműanyag-port pedig a verseny bejelentési szabálya szerint kezeli.
