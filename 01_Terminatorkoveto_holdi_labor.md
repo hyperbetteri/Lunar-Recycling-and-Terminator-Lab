@@ -35,6 +35,8 @@ T_szinodikus ≈ 29,53 nap ≈ 708,7 óra  (egy holdi nap hossza, napkeltétől 
 | 88° | ≈ 0,5 km/óra | ≈ 380 km |
 | 89° | ≈ 0,27 km/óra | ≈ 190 km |
 
+> **Kiegészítés a 89°-os sorhoz.** A táblázat sík terepet és merőleges forgástengelyt feltételez. A Hold kb. 1,5°-os tengelyferdesége miatt a 89. szélességi körön, sík terepen, az év egy részében (nagyjából 2–3 hónapig) a Nap nem kel fel a horizont fölé, ilyenkor ott nincs követhető terminátor; az év egy másik részében viszont le sem nyugszik. Ez nem állítja meg a pályán haladó labort: a napfény nélküli időszakot a fedélzeti energiatároló hidalja át, ezalatt csak a létfontosságú berendezések működnek. A 88. szélességi körön és attól az Egyenlítő felé a terminátor egész évben követhető.
+
 **Ez a koncepció legerősebb érve.** Az Egyenlítőnél egy labornak folyamatosan ~15 km/órával kellene haladnia, ami egy nehéz, ipari létesítménynek irreális. A pólus közelében viszont — például a 88–89. szélességi körön — **gyalogtempónál is lassabb** mozgás elegendő, és a teljes kör csak néhány száz kilométer. Ez egy nehéz, lassan haladó platformmal is követhető.
 
 Ráadásul a Hold tengelyferdesége mindössze kb. 1,5°, ezért a pólusok közelében a Nap mindig a horizont közelében jár. Egyes magaslatokon szinte folyamatos a megvilágítás — ezeket a szakirodalom „örök fény csúcsainak” nevezi (angolul: *peaks of eternal light*), ami egyszerűen azt jelenti, hogy ott a Nap az év nagy részében nem bukik a horizont alá. A közeli kráterek mélyén pedig tartósan árnyékos, rendkívül hideg (kb. 25–40 K, vagyis −250 °C körüli) területek vannak, amelyekben vízjég is lehet. A pólusvidék tehát egyszerre ad **energiát, hideget és vizet**.
